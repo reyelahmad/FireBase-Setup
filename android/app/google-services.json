@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976716303608",
+    "project_id": "restaurant-review-video",
+    "storage_bucket": "restaurant-review-video.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976716303608:android:60cd26481331bdd1167f0d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976716303608-1kd134np9mpu6ciss4cuq68odhe79ptm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfvOq8H9CVEJcFR0qJzzzL43ItwpmOm1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976716303608-1kd134np9mpu6ciss4cuq68odhe79ptm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
